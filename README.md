@@ -1,3 +1,5 @@
+<h1 align="center">React Native - Calculator App</h1>
+
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="React Native Calculator App" />
 
