@@ -1,6 +1,10 @@
 <h1 align="center">React Native - Calculator App</h1>
 
 <div align="center" id="top"> 
+<img src="calc.jpg" alt="app preview" width="150"/>
+
+<br>
+
   <img src="./.github/app.gif" alt="React Native Calculator App" />
 
 <p align="center">
@@ -11,7 +15,6 @@
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
 </p>
 
-<br>
 
 ## :dart: About
 
